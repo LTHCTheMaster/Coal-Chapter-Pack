@@ -1,0 +1,1 @@
+give @s barrel{display:{Name:'{"text":"Coal","color":"dark_red","bold":true,"italic":false,"underlined":true}'},BlockEntityTag:{Items:[{Slot:0b,id:"minecraft:coal_block",Count:64b},{Slot:8b,id:"minecraft:coal_block",Count:64b},{Slot:18b,id:"minecraft:coal_block",Count:64b},{Slot:26b,id:"minecraft:coal_block",Count:64b}]}} 1
